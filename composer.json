@@ -1,0 +1,20 @@
+{
+    "name": "4th-fx/archer-season-10-episode-4-tv-streaming",
+    "description": "Watch Archer Season 10 Episode 4 Online Free putlocker S10e04 WATCH FULL EPISODES HERE (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["Archer Season 10 Episode 4 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/KCvN3C7ZeI",
+            "homepage": "https://t.co/KCvN3C7ZeI",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
